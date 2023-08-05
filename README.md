@@ -1,1 +1,1 @@
-hola soy un readme recien creado
+Ejercicio de git basico de ingenieria de software 3, dentro de las carpetas se encuentran las capturas correspondientes a los ejercicios.
