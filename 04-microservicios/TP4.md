@@ -43,9 +43,7 @@
     - Servicio de api gateway llamado edge-router.
     - Front-end.
 
-2. Tener repositorios separados por cada servicio permite que estos estén desacoplados el uno del otro, que sean independientes, esto nos da la ventaja de que si algo falla no se cae todo el sistema, solo el servicio en el que ocurre la falla. Otra ventaja es la posibilidad de escalamiento horizontal que ofrece la arquitectura de microservicios, pudiendo generar varias instancias dinamicamente de los servicios que reciban la mayor carga. También nos da cierta abstracción al comunicar los servicios entre sí, no importa en que lenguaje estén escritos los servicios, solo la función que cumplan y el resultado que den.
-
-La principal desventaja es la complejidad que acarrean las arquitecturas de microservicios, necesitamos que los cambios que efectúe un servicio se vean reflejados en otro y que no se generen conflictos al intercatuar varios servicios sobre un mismo recurso.
+2. Tener repositorios separados por cada servicio permite que estos estén desacoplados el uno del otro, que sean independientes, esto nos da la ventaja de que si algo falla no se cae todo el sistema, solo el servicio en el que ocurre la falla. Otra ventaja es la posibilidad de escalamiento horizontal que ofrece la arquitectura de microservicios, pudiendo generar varias instancias dinamicamente de los servicios que reciban la mayor carga. También nos da cierta abstracción al comunicar los servicios entre sí, no importa en que lenguaje estén escritos los servicios, solo la función que cumplan y el resultado que den. La principal desventaja es la complejidad que acarrean las arquitecturas de microservicios, necesitamos que los cambios que efectúe un servicio se vean reflejados en otro y que no se generen conflictos al intercatuar varios servicios sobre un mismo recurso.
 
 4. El contenedor que funciona de Api Gateway es edge-router
 
