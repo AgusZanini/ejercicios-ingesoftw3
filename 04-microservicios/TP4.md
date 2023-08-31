@@ -12,15 +12,15 @@
 
 - Generar un usuario
 
-![3](3.png)
+![3](image.png)
 
 - Realizar busqueda 
 
-![4](4.png)
+![4](image-1.png)
 
 - Realizar una compra 
 
-![5](5.png)
+![5](image-2.png)
 
 ![6](image-3.png)
 
