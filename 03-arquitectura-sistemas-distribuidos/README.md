@@ -84,10 +84,36 @@ Tiene una creación de dos redes, una llamada front-tier, que la usan los servic
 
 ## 5. Análisis detallado
 
-- Exponer mas puertos
+Exponer mas puertos
 
 ![docker network inspect](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/03-arquitectura-sistemas-distribuidos/images/exposing_ports.png)
+-
+Se puede ver que se envian los votos a una cola de redis llamada `'votes'` de `app.py` con el metodo `rpush` del modulo de Redis
 
-- Explorar las tablas con dbeaver
+![app.py](rpush.png)
+-
+Dentro del worker se puede ver como se capturan los votos para luego actualizarlos por medio de una funcion auxiliar que realiza un `UPDATE` en la base de datos
+
+![capturar_voto](worker_capturar_voto.png)
+
+![Alt text](worker_capturar_voto.png)
+-
+- Se puede ver que en la funcion `getVotes` de `server.js` se realiza la consulta a la base de datos para traer los votos, luego se recolectan los votos desde los resultados de la consulta usando una funcion auxiliar y finalmente se emiten con sockets.
+
+![get_votes](get_votes.png)
+-
+Explorar las tablas con dbeaver
 
 ![dbeaver](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/03-arquitectura-sistemas-distribuidos/images/exploring_dbeaver.png)
+-
+En resumen, la aplicacion cuenta con diferentes partes, las cuales son:
+* frontend
+* vote service
+* worker
+* result service
+* redis
+* base de datos (postgresql)
+
+Estas partes se comunican entre si de la forma indicada en el siguiente diagrama de secuencia:
+
+![sequence_diagram](sequence_diagram.png)

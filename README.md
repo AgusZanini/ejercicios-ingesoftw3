@@ -1,10 +1,12 @@
 # TRABAJOS PRACTICOS INGENIERIA DE SOFTWARE 3
 
-[01-git-basico]()
+[01-git-basico](https://github.com/AgusZanini/ejercicios-ingesoftw3/tree/master/01_git_basico)
+
+(En este TP solo se encuentran las capturas dentro de sus respectivas carpetas)
 
 ---
 
-[02-introduccion-docker]()
+[02-introduccion-docker](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/02_introduccion_docker/tp2.pdf)
 
 ---
 
