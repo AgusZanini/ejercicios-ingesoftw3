@@ -96,7 +96,7 @@ Dentro del worker se puede ver como se capturan los votos para luego actualizarl
 
 ![capturar_voto](worker_capturar_voto.png)
 
-![Alt text](worker_capturar_voto.png)
+![actualizar_voto](update_vote.png)
 -
 - Se puede ver que en la funcion `getVotes` de `server.js` se realiza la consulta a la base de datos para traer los votos, luego se recolectan los votos desde los resultados de la consulta usando una funcion auxiliar y finalmente se emiten con sockets.
 
