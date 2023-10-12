@@ -51,4 +51,4 @@
 
 9. El componente encargado de procesar la cola de mensajes es el consumer llamado queue-master.
 
-10. Los microservicios se comunican a través de RabbitMq
+10. Los microservicios se comunican a través de una interfaz de comunicacion basada en mensajes o cola de mensajes, particularmente RabbitMQ

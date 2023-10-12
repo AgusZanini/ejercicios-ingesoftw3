@@ -52,6 +52,17 @@
 
 ![12](manejo_de_paquetes_node.png)
 
+## 3. Ejemplo con python
+
+![13](13_cookiecutter.png)
+![Alt text](14_cookiecutter.png)
+
+No se pudo instalar make por una mala configuracion en msys2 que no se pudo resolver.
+
+- `Cookiecutter` sirve para crear un proyecto nuevo preconstruido para poder seguir trabajando en el
+- `make` sirve para la administracion y compilacion de proyectos
+- `pip` sirve para gestionar modulos de python
+
 ## 3. Build tools para otros lenguajes
 
 1. Java:
