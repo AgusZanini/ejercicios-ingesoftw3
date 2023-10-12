@@ -37,4 +37,10 @@ El nuevo dockerfile tiene agregadas las instrucciones `FROM build AS publish` qu
 - Carpetas
 ![7](7_src_app.png)
 
-Vemos que no están las carpetas app/publish, app/build ni src, ya que fueron creadas en otra imagen que no fue la imagen final, el contenido de app/publish esta copiado en la carpeta app de la imagen final.
+Se ve que no están las carpetas app/publish, app/build ni src, ya que fueron creadas en otra imagen que no fue la imagen final, el contenido de app/publish esta copiado en la carpeta app de la imagen final.
+
+## 4. Imagen para aplicacion web Nodejs
+
+Generar un proyecto node
+
+![8](8_create_react_app.png)

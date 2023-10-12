@@ -20,7 +20,7 @@
 
 ---
 
-[05-herramientas](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/05-herramientas/README.md)
+[05-herramientas-de-construccion](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/05-herramientas/README.md)
 
 ---
 
