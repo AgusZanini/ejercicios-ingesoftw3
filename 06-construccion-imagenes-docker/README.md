@@ -44,3 +44,25 @@ Se ve que no están las carpetas app/publish, app/build ni src, ya que fueron cr
 Generar un proyecto node
 
 ![8](8_create_react_app.png)
+
+Escribir Dockerfile
+
+![9](9_dockerfile.png)
+
+Docker build
+
+![10](10_docker_build.png)
+
+Docker run
+
+![11](11_docker_run.png)
+
+Contenedor corriendo en puerto 3000
+
+![12](12_container_running.png)
+
+## 5. Publicar la imagen en Docker Hub
+
+Comandos de consola y disponibilidad de imagen en mi cuenta de Docker Hub
+
+![13](13_image_pushed.png)
