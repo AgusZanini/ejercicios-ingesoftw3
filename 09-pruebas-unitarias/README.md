@@ -98,7 +98,7 @@ Fallo en el test luego de modificar el codigo de estado de la respuesta a `NotFo
 
 Nuevo test con el mock modificado 
 
-`
+```csharp
 [Test]
         public async Task GetMyModelsAsync_ReturnsExpectedNumberOfItems()
         {
@@ -136,4 +136,4 @@ Nuevo test con el mock modificado
             // Verify that the number of items returned matches the expected count
             Assert.AreEqual(2, result.Count());
         }
-`
+```
