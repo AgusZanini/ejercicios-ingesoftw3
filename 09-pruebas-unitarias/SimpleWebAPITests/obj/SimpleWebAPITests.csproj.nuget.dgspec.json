@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj": {}
+    "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj": {
+    "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj",
         "projectName": "SimpleWebAPITests",
-        "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\SimpleWebAPITests.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPITests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj"
+              "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj": {
+                "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj": {
+    "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj",
         "projectName": "SimpleWebAPI",
-        "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj",
+        "projectPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\SimpleWebAPI.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\Desktop\\facu\\4to\\inge de software 3\\TPS\\ejercicios-ingesoftw3\\09-pruebas-unitarias\\SimpleWebAPI\\SimpleWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

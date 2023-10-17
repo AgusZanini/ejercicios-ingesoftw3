@@ -28,11 +28,11 @@
 
 ---
 
-[07-](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/07-servidor-build/README.md)
+[07-Servidor-de-Build](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/07-servidor-build/README.md)
 
 ---
 
-[08](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/08-herramientas-nube/README.md)
+[08-Herramientas-Nube](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/08-herramientas-nube/README.md)
 
 ---
 
