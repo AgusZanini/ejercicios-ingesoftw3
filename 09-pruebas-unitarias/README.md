@@ -137,3 +137,7 @@ Nuevo test con el mock modificado
             Assert.AreEqual(2, result.Count());
         }
 ```
+
+Nuevo test ejecutado
+
+![22](22_test_pass.png)
