@@ -28,16 +28,16 @@
 
 ---
 
-[07-]()
+[07-](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/07-servidor-build/README.md)
 
 ---
 
-[08]()
+[08](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/08-herramientas-nube/README.md)
 
 ---
 
-[09-pruebas-unitarias]()
+[09-pruebas-unitarias](https://github.com/AgusZanini/ejercicios-ingesoftw3/tree/master/09-pruebas-unitarias)
 
 ---
 
-[10-pruebas-integracion]()
+[10-pruebas-integracion](https://github.com/AgusZanini/ejercicios-ingesoftw3/tree/master/10-pruebas-integracion)
