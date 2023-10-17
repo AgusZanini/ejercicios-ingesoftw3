@@ -144,7 +144,7 @@ Nuevo test ejecutado
 
 ## Crear un workflow de github actions para construir, probar y subir a docker hub el proyecto
 
-```
+```csharp
 name: Build and Publish .NET App
 
 on:
