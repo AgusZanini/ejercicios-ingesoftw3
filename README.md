@@ -10,9 +10,6 @@
 
 [03-arquitectura-de-sistemas-distribuidos](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/03-arquitectura-sistemas-distribuidos/README.md)
 
-
-[03 .mdj del diagrama de secuencia](https://raw.githubusercontent.com/AgusZanini/ejercicios-ingesoftw3/master/03-arquitectura-sistemas-distribuidos/example-votting-app-sequence-diagram.mdj)
-
 ---
 
 [04-microservicios](https://github.com/AgusZanini/ejercicios-ingesoftw3/blob/master/04-microservicios/README.md)
