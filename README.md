@@ -1,8 +1,6 @@
 # TRABAJOS PRACTICOS INGENIERIA DE SOFTWARE 3
 
-[01-git-basico](https://github.com/AgusZanini/ejercicios-ingesoftw3/tree/master/01_git_basico)
-
-(En este TP solo se encuentran las capturas dentro de sus respectivas carpetas)
+[01-git-basico](https://github.com/AgusZanini/ejercicios-ingesoftw3/tree/master/01_git_basico/README.md)
 
 ---
 
